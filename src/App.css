@@ -2,6 +2,12 @@ html,
 body {
     height: 100%;
 }
+
+#root {
+    height: 100%;
+    background-color: #8bf790;
+}
+
 .whos-turn {
     font-size: 20px;
 }

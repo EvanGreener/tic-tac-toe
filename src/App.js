@@ -64,6 +64,7 @@ class App extends Component {
 
                 this.player = box.value === 'X' ? 'O' : 'X'
             }
+            return box
         })
 
         this.setState(newBoard)
